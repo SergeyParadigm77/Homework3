@@ -109,5 +109,6 @@ public class Main {
         System.out.println("«Маша теперь получает " + newSalaryMonthMasha + " рублей. Годовой доход вырос на " + salaryIncreaseYearMasha + " рублей».");
         System.out.println("«Денис теперь получает " + newSalaryMonthDenis + " рублей. Годовой доход вырос на " + salaryIncreaseYearDenis + " рублей».");
         System.out.println("«Кристина теперь получает " + newSalaryMonthKristina + " рублей. Годовой доход вырос на " + salaryIncreaseYearKristina + " рублей».");
+        System.out.println("Домашка выполнена!");
     }
 }
